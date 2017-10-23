@@ -21,8 +21,8 @@
       <file leaf-file-name="ControlFlowExercises.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ControlFlowExercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="75">
+              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -291,7 +291,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508734535385</updated>
-      <workItem from="1508734539003" duration="13278000" />
+      <workItem from="1508734539003" duration="13397000" />
     </task>
     <task id="LOCAL-00001" summary="Do While counting by 2.">
       <created>1508795952931</created>
@@ -307,11 +307,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508796050556</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Starts with 2 and displays the number squared. Had to use long instead of int.">
+      <created>1508797123809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508797123809</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13278000" />
+    <option name="totallyTimeSpent" value="13397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-170" y="-989" width="1260" height="756" extended-state="0" />
@@ -325,7 +332,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5031746" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -384,7 +391,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Do While counting by 2." />
     <MESSAGE value="Counting backwards by 5's." />
-    <option name="LAST_COMMIT_MESSAGE" value="Counting backwards by 5's." />
+    <MESSAGE value="Starts with 2 and displays the number squared. Had to use long instead of int." />
+    <option name="LAST_COMMIT_MESSAGE" value="Starts with 2 and displays the number squared. Had to use long instead of int." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -417,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ControlFlowExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="75">
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding />
         </state>
       </provider>
