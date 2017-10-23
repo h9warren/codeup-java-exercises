@@ -21,8 +21,8 @@
       <file leaf-file-name="ControlFlowExercises.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ControlFlowExercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="60">
+              <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -291,7 +291,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508734535385</updated>
-      <workItem from="1508734539003" duration="13610000" />
+      <workItem from="1508734539003" duration="13742000" />
     </task>
     <task id="LOCAL-00001" summary="Do While counting by 2.">
       <created>1508795952931</created>
@@ -321,11 +321,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508797234076</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="count to 100 by 2's using a 4 loop.">
+      <created>1508797439677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508797439677</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13610000" />
+    <option name="totallyTimeSpent" value="13742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-148" y="-913" width="1260" height="756" extended-state="0" />
@@ -400,7 +407,8 @@
     <MESSAGE value="Counting backwards by 5's." />
     <MESSAGE value="Starts with 2 and displays the number squared. Had to use long instead of int." />
     <MESSAGE value="counting by 1 using a for loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="counting by 1 using a for loop." />
+    <MESSAGE value="count to 100 by 2's using a 4 loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="count to 100 by 2's using a 4 loop." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -433,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ControlFlowExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="60">
+          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding />
         </state>
       </provider>
