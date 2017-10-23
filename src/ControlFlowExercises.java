@@ -2,14 +2,14 @@ public class ControlFlowExercises {
 
     public static void main(String[] args) {
 
-        int num = 100;
+        long num = 2;
 
         do {
 
             System.out.println(num);
-            num -= 5;
+            num = num * num;
 
-        } while (num >= -10);
+        } while (num < 1000000);
     }
 
 }
