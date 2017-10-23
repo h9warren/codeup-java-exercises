@@ -28,6 +28,18 @@ public class ConsoleExercises {
 //
 //        System.out.println("You entered: --> \"" + sentence + "\" <--");
 
+
+        Scanner scan = new Scanner(System.in);
+
+        System.out.print("Enter the room's width: ");
+        float width = scan.nextFloat();
+        System.out.print("Enter the room's length: ");
+        float length = scan.nextFloat();
+
+        float area = (2 * length) + (2 * width);
+        System.out.print(area);
+
+
     }
 }
 
