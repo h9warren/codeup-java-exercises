@@ -8,39 +8,42 @@ public class ControlFlowExercises {
 
         String yesorno = "yes";
 
-        while((yesorno == "yes")) {
+        char symbol = '-';
+        char grade = 'F';
 
-            System.out.println("What number would you like to go up to? ");
+        do {
+
+            //enter an int 0-100
+            System.out.print("Enter a number 0-100: ");
             int integer = scan.nextInt();
-
-            String table = "\nHere is your table";
-            System.out.println(table + "\n");
-            System.out.println("number | squared | cubed");
-            System.out.println("------ | ------- | -----");
-
-            for(int i = 0; i <= integer; i++) {
-
-                System.out.printf("%-6s", (int)Math.pow(i,1));
-                System.out.print(" | ");
-                System.out.printf("%-7s", (int)Math.pow(i,2));
-                System.out.print(" | ");
-                System.out.printf("%-6s", (int)Math.pow(i,3));
-                System.out.printf("\n");
-            }
-            System.out.println("\nWould you like to continue?");
-
-            String response = scan.next();
-
-            if (! response.equals("yes")) {
-                break;
+            int second = (integer % 10);
+            if (integer < 100) {
+                if (second < 5) {
+                    symbol = '-';
+                } else {
+                    symbol = '+';
+                }
             }
 
-        }
+            if ((integer >= 60) && (integer < 70)) {
+                grade = 'D';
+            } else if ((integer >= 70) && (integer < 80)) {
+                grade = 'C';
+            } else if ((integer >= 80) && (integer < 90)) {
+                grade = 'B';
+            } else if (integer >= 90) {
+                grade ='A';
+            } else {
+                grade = 'F';
+            }
+
+            System.out.println("Your grade is " + grade + symbol + "\n");
+
+        } while (yesorno == "yes");
 
     }
 
 }
-
 
 
 

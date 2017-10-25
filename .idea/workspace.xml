@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2adf329-cec2-4234-80b3-6b4799be6326" name="Default" comment="table of exponent multiples">
+    <list default="true" id="d2adf329-cec2-4234-80b3-6b4799be6326" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ControlFlowExercises.java" afterPath="$PROJECT_DIR$/src/ControlFlowExercises.java" />
     </list>
@@ -21,8 +21,8 @@
       <file leaf-file-name="ControlFlowExercises.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ControlFlowExercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="475">
+              <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -292,7 +292,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508734535385</updated>
-      <workItem from="1508734539003" duration="25054000" />
+      <workItem from="1508734539003" duration="28615000" />
     </task>
     <task id="LOCAL-00001" summary="Do While counting by 2.">
       <created>1508795952931</created>
@@ -350,11 +350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508816754508</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="table of exponent multiples">
+      <created>1508948288140</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1508948288140</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25054000" />
+    <option name="totallyTimeSpent" value="28615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1260" height="756" extended-state="0" />
@@ -466,8 +473,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ControlFlowExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="475">
+          <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
           <folding />
         </state>
       </provider>
