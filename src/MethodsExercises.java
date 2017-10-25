@@ -45,10 +45,10 @@ public class MethodsExercises {
         System.out.print("Enter a number between " + min + " and " + max + ": ");
         int intake = scan.nextInt();
         if ((intake < 1) || (intake > 10)) {
-            System.out.print("Invalid Input: " + intake);
+            System.out.print("Invalid Input: " + intake + "\n");
             return range(min, max, scan);
         } else {
-            System.out.print("Valid Input: " + intake);
+            System.out.print("Valid Input: " + intake + "\n");
             return intake;
         }
     }
