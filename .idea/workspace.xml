@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d2adf329-cec2-4234-80b3-6b4799be6326" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MethodsExercises.java" afterPath="$PROJECT_DIR$/src/MethodsExercises.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HighLow.java" afterPath="$PROJECT_DIR$/src/HighLow.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,33 +18,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MethodsExercises.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MethodsExercises.java">
+      <file leaf-file-name="HighLow.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HighLow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="50" column="60" lean-forward="false" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+            <state relative-caret-position="375">
+              <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+              <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
               <folding>
-                <element signature="e#635#636#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
-                <element signature="e#962#963#0" expanded="true" />
-                <element signature="e#1019#1020#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ControlFlowExercises.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ControlFlowExercises.java">
+      <file leaf-file-name="MethodsExercises.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MethodsExercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="46" />
-              <folding />
+            <state relative-caret-position="-301">
+              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/Bob.java" />
         <option value="$PROJECT_DIR$/out/production/codeup-java-exercises/MethodsExercises.class" />
         <option value="$PROJECT_DIR$/src/MethodsExercises.java" />
+        <option value="$PROJECT_DIR$/src/HighLow.java" />
       </list>
     </option>
   </component>
@@ -95,7 +90,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="7" />
+    <option name="x" value="-273" />
+    <option name="y" value="-1033" />
     <option name="width" value="1260" />
     <option name="height" value="756" />
   </component>
@@ -174,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodsExercises">
+  <component name="RunManager" selected="Application.HighLow">
     <configuration name="Bob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Bob" />
@@ -189,9 +185,9 @@
       <module name="codeup-java-exercises" />
       <envs />
     </configuration>
-    <configuration name="ConsoleExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ControlFlowExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ConsoleExercises" />
+      <option name="MAIN_CLASS_NAME" value="ControlFlowExercises" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -203,9 +199,9 @@
       <module name="codeup-java-exercises" />
       <envs />
     </configuration>
-    <configuration name="ControlFlowExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HighLow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ControlFlowExercises" />
+      <option name="MAIN_CLASS_NAME" value="HighLow" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -327,19 +323,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ConsoleExercises" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ControlFlowExercises" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StringExercise" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Bob" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MethodsExercises" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ControlFlowExercises" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StringExercise" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Bob" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MethodsExercises" />
+      <item index="4" class="java.lang.String" itemvalue="Application.HighLow" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MethodsExercises" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Bob" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StringExercise" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ControlFlowExercises" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ConsoleExercises" />
+        <item index="0" class="java.lang.String" itemvalue="Application.HighLow" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MethodsExercises" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Bob" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StringExercise" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ControlFlowExercises" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +354,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508734535385</updated>
-      <workItem from="1508734539003" duration="41284000" />
+      <workItem from="1508734539003" duration="47772000" />
     </task>
     <task id="LOCAL-00001" summary="Do While counting by 2.">
       <created>1508795952931</created>
@@ -472,29 +468,36 @@
       <option name="project" value="LOCAL" />
       <updated>1508968363224</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="methods. simple math">
+      <created>1508968542901</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1508968542901</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41284000" />
+    <option name="totallyTimeSpent" value="47772000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="-322" y="-1080" width="1920" height="1080" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718447" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5031746" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2184466" sideWeight="0.4968254" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1953125" sideWeight="0.49237472" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13020833" sideWeight="0.49237472" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -618,27 +621,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ControlFlowExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="-35">
           <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/codeup-java-exercises/ConsoleExercises.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MethodsExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="50" column="60" lean-forward="false" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+        <state relative-caret-position="-301">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HighLow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
