@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Random;
 
 public class MethodsExercises {
 
@@ -19,6 +20,7 @@ public class MethodsExercises {
         System.out.println(mod);
         range(3, 20, scan);
         factorial(range(3, 20, scan));
+        dice(scan);
     }
 
     private static long addition(long num1, long num2) {
@@ -65,4 +67,42 @@ public class MethodsExercises {
         return 0;
 
     }
+
+    private static int dice(Scanner scan) {
+
+        System.out.print("Press r to roll the dice! ");
+
+        char input = scan.next().charAt(0);
+        int num1 = roll();
+        int num2 = roll();
+
+        while (input != 'r') {
+            System.out.print("Press r to roll the dice! ");
+        }
+
+        if(input == 'r') {
+
+            System.out.print("You rolled " + num1 + " and " + num2 + ".\nWould you like to roll again? (y/n) ");
+        }
+        char cont = scan.next().charAt(0);
+
+        if (cont == 'y') {
+            return dice(scan);
+        } else {
+            return 0;
+        }
+
+    }
+
+    public static int roll() {
+        Random rand = new Random();
+        int value = rand.nextInt(8) + 1;
+        return value;
+
+    }
+
+
+
 }
+
+
