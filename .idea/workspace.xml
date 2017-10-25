@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d2adf329-cec2-4234-80b3-6b4799be6326" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HighLow.java" afterPath="$PROJECT_DIR$/src/HighLow.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -354,7 +353,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508734535385</updated>
-      <workItem from="1508734539003" duration="47772000" />
+      <workItem from="1508734539003" duration="47790000" />
     </task>
     <task id="LOCAL-00001" summary="Do While counting by 2.">
       <created>1508795952931</created>
@@ -475,11 +474,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508968542901</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="guessing game complete!">
+      <created>1508975067372</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1508975067372</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47772000" />
+    <option name="totallyTimeSpent" value="47790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-322" y="-1080" width="1920" height="1080" extended-state="6" />
@@ -564,7 +570,8 @@
     <MESSAGE value="escaping character!" />
     <MESSAGE value="surly teenage switch case based on punctuation or string contains" />
     <MESSAGE value="methods. simple math" />
-    <option name="LAST_COMMIT_MESSAGE" value="methods. simple math" />
+    <MESSAGE value="guessing game complete!" />
+    <option name="LAST_COMMIT_MESSAGE" value="guessing game complete!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
